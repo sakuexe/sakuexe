@@ -1,5 +1,5 @@
 - 👋 Hello, I am Saku
-- 👀 I’m interested in Software- and Game development as well as web development
+- 👀 I am especially interested in Software, Web and Game Development
 - 🌱 I’m currently studying at HAMK University of applied sciences as a information and communications engineer
 - 📫 You can drop me a message at saku.karttunen@student.hamk.fi
 
