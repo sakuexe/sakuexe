@@ -27,20 +27,42 @@
 <hr/>
 
 <details>
-  <summary><b>:gear: &nbsp;Favorite Technologies</b></summary>
+  <summary><b>⚙️ &nbsp;Favorite tech</b></summary>
   <br/>
   
   - Frontend and Backend Web Development
   - Crossplatform software development
   - Game programming
+  - CLI tools
+  - Scripting and automation
 
-  </details>
+  <br/>
 
+  <img src="https://img.shields.io/badge/Neovim-339c4a.svg?&style=for-the-badge&logo=neovim&logoColor=white"/>&nbsp;
+  <img src="https://img.shields.io/badge/tmux-29752b.svg?&style=for-the-badge&logo=tmux&logoColor=white"/>&nbsp;
+  <img src="https://img.shields.io/badge/Git-%23F05033.svg?&style=for-the-badge&logo=git&logoColor=white"/>&nbsp;
+  <img src="https://img.shields.io/badge/Linux-c95f2a?style=for-the-badge&logo=linux&logoColor=black"/>&nbsp;
+  <img src="https://img.shields.io/badge/Windows-317eab.svg?&style=for-the-badge&logo=windows"/>&nbsp;
+  <img src="https://img.shields.io/badge/VSCode-007ACC.svg?&style=for-the-badge&logo=visual-studio-code"/>&nbsp;
+
+</details>
+
+<details>
+  <summary><b>🧩&nbsp;Other interests</b></summary>
+  <br/>
+
+  - 💾 Graphic design
+  - 🧑‍💻 Video & Photo editing
+  - ✏️ Drawing
+  - 🍲 Cooking
+  - 🏎️ Formula 1
+
+</details>
 <hr/>
 
 <p align="right">
-  <img src="https://komarev.com/ghpvc/?username=brunotacca&style=plastic&label=Views"><img>
-  <img src="https://badges.pufler.dev/visits/brunotacca/brunotacca?color=black&logo=github" />
+  <img src="https://komarev.com/ghpvc/?username=sakuexe&style=for-the-badge&label=Views"><img>
+  <img src="https://badges.pufler.dev/visits/sakuexe/sakuexe?style=for-the-badge&color=black&logo=github" />
 </p>
 
 <!---
