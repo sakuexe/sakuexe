@@ -63,6 +63,7 @@
 <p align="right">
   <img src="https://komarev.com/ghpvc/?username=sakuexe&style=for-the-badge&label=Views"><img>
   <img src="https://badges.pufler.dev/visits/sakuexe/sakuexe?style=for-the-badge&color=black&logo=github" />
+  <img alt="followers" title="Follow me on Github" src="https://img.shields.io/github/followers/sakuexe?color=236ad3&style=for-the-badge&logo=github&label=Follow"/>
 </p>
 
 <!---
