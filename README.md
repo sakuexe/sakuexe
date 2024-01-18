@@ -5,11 +5,10 @@
   You can find me in the terminal (or just from the links below).
 </p>
 <p>
-  The editor of choice for me is Neovim, but otherwise I am pretty sane. If you are also
-  interested in development enviroments inside of terminals, be sure to check out my
-  <a href="https://github.com/sakuexe/.dotfiles">.dotfiles</a>. (I have used more time
-  on those than I would like to admit). VSCode is also a fine editor that I enjoy using
-  in situations where Neovim isn't a relatively easy option.
+  The editor of choice for me is Neovim, but otherwise I am pretty sane. My favorite
+  forms of programming currently are Fullstack and Software development.
+  If you are also interested in development enviroments inside of terminals, be sure 
+  to check out my <a href="https://github.com/sakuexe/.dotfiles">.dotfiles</a>.
 </p>
 
 <div align="center">
