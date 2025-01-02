@@ -31,8 +31,8 @@ Thank you for reading! Have a nice day. 🐧
 <hr/>
 
 <details>
-    <summary><b>⚙️ &nbsp;Tech interests</b></summary>
-    <br/>
+  <summary><b>⚙️ &nbsp;Tech interests</b></summary>
+  <br/>
 
     - Frontend and backend web development
     - Game development
@@ -41,7 +41,7 @@ Thank you for reading! Have a nice day. 🐧
     - Crossplatform software development
     - Linux systems
 
-    <br/>
+  <br/>
 
   <img src="https://img.shields.io/badge/Neovim-339c4a.svg?&style=for-the-badge&logo=neovim&logoColor=white"/>&nbsp;
   <img src="https://img.shields.io/badge/NixOS-5277C3.svg?&style=for-the-badge&logo=nixos&logoColor=fff"/>&nbsp;
@@ -53,8 +53,8 @@ Thank you for reading! Have a nice day. 🐧
 </details>
 
 <details>
-    <summary><b>🧩&nbsp;Other interests</b></summary>
-    <br/>
+  <summary><b>🧩&nbsp;Other interests</b></summary>
+  <br/>
 
     - 🕹️ Gaming
     - 💾 Graphic design
