@@ -43,12 +43,12 @@ Thank you for reading! Have a nice day. 🐧
 
   <br/>
 
-  <img src="https://img.shields.io/badge/Neovim-339c4a.svg?&style=for-the-badge&logo=neovim&logoColor=white"/>&nbsp;
-  <img src="https://img.shields.io/badge/NixOS-5277C3.svg?&style=for-the-badge&logo=nixos&logoColor=fff"/>&nbsp;
-  <img src="https://img.shields.io/badge/tmux-29752b.svg?&style=for-the-badge&logo=tmux&logoColor=white"/>&nbsp;
-  <img src="https://img.shields.io/badge/Git-%23F05033.svg?&style=for-the-badge&logo=git&logoColor=white"/>&nbsp;
-  <img src="https://img.shields.io/badge/Godot-478CBF.svg?&style=for-the-badge&logo=godotengine&logoColor=fff"/>&nbsp;
-  <img src="https://img.shields.io/badge/Linux-c95f2a?style=for-the-badge&logo=linux&logoColor=black"/>&nbsp;
+  <img src="https://img.shields.io/badge/Neovim-3b3644?&style=for-the-badge&logo=neovim&logoColor=white&labelColor=339c4a"/>&nbsp;
+  <img src="https://img.shields.io/badge/NixOS-3b3644?&style=for-the-badge&logo=nixos&logoColor=fff&labelColor=5277C3"/>&nbsp;
+  <img src="https://img.shields.io/badge/tmux-3b3644?&style=for-the-badge&logo=tmux&logoColor=white&labelColor=29752b"/>&nbsp;
+  <img src="https://img.shields.io/badge/Git-3b3644?&style=for-the-badge&logo=git&logoColor=white&labelColor=b8754f"/>&nbsp;
+  <img src="https://img.shields.io/badge/Godot-3b3644?&style=for-the-badge&logo=godotengine&logoColor=fff&labelColor=478CBF"/>&nbsp;
+  <img src="https://img.shields.io/badge/Linux-3b3644?style=for-the-badge&logo=linux&logoColor=black&labelColor=c95f2a"/>&nbsp;
 
 </details>
 
